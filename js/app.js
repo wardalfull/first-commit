@@ -1,3 +1,3 @@
 function myFunction() {
-    alert("Wedad Saleh Wellcome");
+    alert("Wedad Saleh Welcome");
 }
